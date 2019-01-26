@@ -10,3 +10,4 @@ My Python - Machine Learning Tutorials
 8. NLP - Regular Expressions (re)
 9. NLP - Toolkits and Preprocessing Techniques
 10. NLP - Text Similarity Measures
+11. NLP - Latent Dirichlet Allocation (LDA) and Topic Modeling
